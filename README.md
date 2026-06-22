@@ -25,16 +25,17 @@ rm vscode.deb
 After that I enable Wayland in VS Code config file
 ```bash
 nano /home/user/.config/code-flags.conf 
-```
-```bash
+
+
 --ozone-platform-hint=auto
 --enable-features=WaylandWindowDecorations
 ``` 
-```
+
 now I can use Dvorak in VS Code
 ### VietNamese problem
 When I use VS Code doing home work I 'alt+tab' to Chrome and 'Super+space' to use VietNamese (you can see in step 1 setting) the layout still there, but in VietNamese.
 **The solution** :
+
 ```bash
 sudo nano /usr/share/ibus/component/bamboo.xml
 ```
