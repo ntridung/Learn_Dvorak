@@ -1,5 +1,5 @@
 # Day 1 - Take a look of new layout 
-![layout](main/assets/keymap.jpg)
+![layout](../assets/keymap.jpg)
 I try to learn how to use by editing the README file but it's too hard (at this moment I am trying to type this file).
 Then I code a little with this layout. It even worse.<br/>
 ![sadness](../assets/day1/sad.png) <br/>
